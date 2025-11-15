@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-LOGO_PATH = "logo_fbmr.png"  # cambia si tu archivo se llama distinto
+LOGO_PATH = "logo_fbmr.jpg"  # cambia si tu archivo se llama distinto
 
 # ---------- Datos de ejemplo ----------
 @st.cache_data
